@@ -1,4 +1,3 @@
-import React from "react";
 import { Provider as ReduxProvider } from "react-redux";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import Box from "@mui/material/Box";
